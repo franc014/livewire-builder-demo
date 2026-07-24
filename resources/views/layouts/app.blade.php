@@ -13,6 +13,7 @@
 </head>
 
 <body>
+    <livewire:main-header />
     {{ $slot }}
 
     @livewireScripts
